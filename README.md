@@ -6,6 +6,16 @@ A population-based machine learning implementation for autonomous Flappy Bird ga
 
 This project implements an AI system that learns to play Flappy Bird through evolutionary computation rather than traditional supervised learning methods. The system employs a population of neural network-controlled agents that evolve over generations to maximize survival time in the game environment.
 
+## Demonstration
+
+<div align="center">
+  <video width="480" height="640" controls>
+    <source src="vid/Screen Recording 2025-07-21 at 1.41.18 AM.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p><em>AI agents learning to navigate through pipes over multiple generations</em></p>
+</div>
+
 ## Technical Implementation
 
 ### Architecture

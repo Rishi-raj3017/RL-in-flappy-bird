@@ -8,7 +8,7 @@ This project implements an AI system that learns to play Flappy Bird through evo
 
 ## Demonstration
 
-[![Flappy Bird AI Demo](https://img.shields.io/badge/📹_Watch-Demo_Video-blue?style=for-the-badge)](vid/Screen%20Recording%202025-07-21%20at%201.41.18%20AM.mov)
+[![Flappy Bird AI Demo](https://img.shields.io/badge/📹_Watch-Demo_Video-blue?style=for-the-badge)](vid/flappy-bird-ai-demo.mov)
 
 *Click the badge above to view AI agents learning to navigate through pipes over multiple generations*
 

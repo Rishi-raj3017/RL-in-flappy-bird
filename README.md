@@ -8,13 +8,15 @@ This project implements an AI system that learns to play Flappy Bird through evo
 
 ## Demonstration
 
-<div align="center">
-  <video width="480" height="640" controls>
-    <source src="vid/Screen Recording 2025-07-21 at 1.41.18 AM.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><em>AI agents learning to navigate through pipes over multiple generations</em></p>
-</div>
+[![Flappy Bird AI Demo](https://img.shields.io/badge/📹_Watch-Demo_Video-blue?style=for-the-badge)](vid/Screen%20Recording%202025-07-21%20at%201.41.18%20AM.mov)
+
+*Click the badge above to view AI agents learning to navigate through pipes over multiple generations*
+
+The video demonstrates:
+- Multiple AI agents (colored rectangles) attempting to navigate through pipe obstacles
+- Real-time learning behavior as agents evolve across generations  
+- Visual debugging lines showing each agent's vision system
+- Population-wide adaptation and improvement over time
 
 ## Technical Implementation
 

@@ -24,3 +24,5 @@ class Node:
         clone.id = self.id
         clone.layer = self.layer
         return clone
+    
+    

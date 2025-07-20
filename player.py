@@ -100,3 +100,6 @@ class Player:
         clone.brain = self.brain.clone()
         clone.brain.generate_net()
         return clone
+    
+
+    
